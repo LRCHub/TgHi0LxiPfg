@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Scarface (Push It To The Limit)",
+  "base_artist": "Paul Engemann",
+  "createdAt": "2025-12-14T21:29:23.089348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scarface ( Push It To The Limit)",
+      "artist": "OST",
+      "has_synced": true,
+      "path": "select/01_Scarface_(_Push_It_To_The_Limit)_OST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/02_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/03_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/04_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/05_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/06_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/07_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": false,
+      "path": "select/08_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scarface (Push It to the Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/09_Scarface_(Push_It_to_the_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scarface (Push It to the Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/10_Scarface_(Push_It_to_the_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/11_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/12_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scarface (Push It to the Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/13_Scarface_(Push_It_to_the_Limit)_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit) - From \"Scarface\" Soundtrack",
+      "artist": "Paul Engemann",
+      "has_synced": true,
+      "path": "select/14_Scarface_(Push_It_To_The_Limit)_-_From__Scarface__Soundtrack_Paul_Engemann.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scarface (Push It To The Limit) (Extended Version)",
+      "artist": "Paul Engemann",
+      "has_synced": false,
+      "path": "select/15_Scarface_(Push_It_To_The_Limit)_(Extended_Version)_Paul_Engemann.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scarface (Push It To The Limit)",
+      "artist": "Paul Engemann",
+      "has_synced": false,
+      "path": "select/pl_01_Scarface_(Push_It_To_The_Limit)_Paul_Engemann.txt"
+    }
+  ]
+}
